@@ -136,6 +136,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 - [@CivicWhitaker Anthology](https://smartchicagocollaborative.org/launch-the-civicwhitaker-anthology/) - Evaluates three years of organizing hackathons in Chicago civic tech.
 - [Ansys Developer](https://developer.ansys.com/node/14990) - A set of judging criteria for hackathons.
+- [deed.page](https://deed.page) - Free static hosting where each team uploads its HTML demo with one command and gets a public link, so judges can open every project from the same kind of URL.
 - [Evaluation Hackathon](https://www.betterevaluation.org/blog/hackathon) - High-level advice on better evaluation from the IPDET hackathons.
 - [Eventflare's Journal](https://eventflare.io/journal/crafting-effective-hackathon-judging-criteria-a-step-by-step-guide) - Strategies for determining criteria & [recruiting judges](https://eventflare.io/journal/how-to-select-the-right-hackathon-judges-for-your-event).
 - [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) - Create a Devpost Expo table frontend.
